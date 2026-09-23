@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="fto.jpg" alt="FactoryTalk Optix logo" height="80">
+<p align="right">
+  <img src="fto.jpg" alt="FactoryTalk Optix logo" height="120">
   &nbsp;&nbsp;&nbsp;
   <img src="gmv.png" alt="Google Model Viewer logo" height="80">
 </p>
