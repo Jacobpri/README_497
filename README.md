@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="fto.jpg" alt="FactoryTalk Optix logo" height="120">
   &nbsp;&nbsp;&nbsp;
   <img src="gmv.png" alt="Google Model Viewer logo" height="80">
