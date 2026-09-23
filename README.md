@@ -89,7 +89,7 @@ Your 3D model should now be visible and interactive.
 > The exact Web Browser path may depend on your FactoryTalk Optix project structure and deployment configuration.
 
 <p align="center">
-  <img src="docs/images/index-html-example.png" alt="Example of the model source path in the index HTML file">
+  <img src="Html.png" alt="Example of the model source path in the index HTML file">
 </p>
 
 ## Features
