@@ -141,7 +141,7 @@ Switch between multiple 3D models or machine views.
 Display real-time diagnostic information, such as parts-per-hour statistics.
 
 <p align="center">
-  <img src="docs/images/real-time-diagnostics.png" alt="Parts-per-hour statistics displayed with the 3D model">
+  <img src="stats.png" alt="Parts-per-hour statistics displayed with the 3D model">
 </p>
 
 ### Single-Part Isolation
