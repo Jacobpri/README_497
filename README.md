@@ -1,8 +1,13 @@
-<p align="left">
-  <img src="fto.jpg" alt="FactoryTalk Optix logo" height="120">
-  &nbsp;&nbsp;&nbsp;
-  <img src="gmv.png" alt="Google Model Viewer logo" height="80">
-</p>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="fto.jpg" alt="FactoryTalk Optix logo" height="120">
+    </td>
+    <td align="center" valign="middle">
+      <img src="gmv.png" alt="Google Model Viewer logo" height="80">
+    </td>
+  </tr>
+</table>
 
 # FactoryTalk Optix 3D Model Viewer
 
