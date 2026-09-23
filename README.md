@@ -133,7 +133,7 @@ The following examples demonstrate some of the advanced capabilities described a
 Switch between multiple 3D models or machine views.
 
 <p align="center">
-  <img src="docs/images/multi-model-viewing.gif" alt="Demonstration of switching between multiple 3D models">
+  <img src="ModelGIF.gif" alt="Demonstration of switching between multiple 3D models">
 </p>
 
 ### Real-Time Diagnostics
