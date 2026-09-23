@@ -121,7 +121,7 @@ The following architecture diagram illustrates an advanced use case that incorpo
 - Real-time parts-per-hour statistics for different movers in the machine
 
 <p align="center">
-  <img src="docs/images/architecture-diagram.png" alt="Architecture diagram for the advanced FactoryTalk Optix 3D Model Viewer use case">
+  <img src="AD.png" alt="Architecture diagram for the advanced FactoryTalk Optix 3D Model Viewer use case">
 </p>
 
 ## Usage Examples
