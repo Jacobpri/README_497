@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="docs/images/ftoptix-logo.png" alt="FactoryTalk Optix logo" height="80">
   &nbsp;&nbsp;&nbsp;
@@ -162,4 +161,3 @@ Use the open-source [Model Viewer Editor](https://modelviewer.dev/editor/) to ad
 
 An experienced user may complete the process in approximately five minutes. A new user following this guide should generally be able to display a model within ten minutes.
 ```
-
