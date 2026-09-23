@@ -23,7 +23,7 @@ Using the native web presentation engine, the viewer can support capabilities su
 - Maintenance workflow optimization
 
 <p align="center">
-  <img src="docs/images/base-model-viewer.png" alt="Base 3D Model Viewer displayed in FactoryTalk Optix">
+  <img src="Base.png" alt="Base 3D Model Viewer displayed in FactoryTalk Optix">
 </p>
 
 ## Table of Contents
