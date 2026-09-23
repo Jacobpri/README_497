@@ -149,7 +149,7 @@ Display real-time diagnostic information, such as parts-per-hour statistics.
 Isolate and focus on an individual machine component for inspection or diagnosis.
 
 <p align="center">
-  <img src="docs/images/single-part-isolation.gif" alt="Demonstration of isolating and zooming in on mover 2">
+  <img src="PartGIF.gif" alt="Demonstration of isolating and zooming in on mover 2">
 </p>
 
 ## Frequently Asked Questions
